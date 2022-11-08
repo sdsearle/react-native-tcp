@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tcp",
+  "name": "react-native-tcp-zol",
   "version": "4.0.1",
   "description": "node's net API for react-native",
   "main": "TcpSockets.js",
